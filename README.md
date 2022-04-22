@@ -9,7 +9,7 @@
 -  I am majoring in computer science.
 -  I am interested in web, database, AI development.
 
-[😄 My Portfolio](https://www.notion.so/e1ce7fec2d0c47008b632e7ec8af4e37)
+[😄 My Portfolio](https://special-daisy-4d1.notion.site/e1ce7fec2d0c47008b632e7ec8af4e37)
 
 <!--
 - 👯 I’m looking to collaborate on ...🔭🌱
