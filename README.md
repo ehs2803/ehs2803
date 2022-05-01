@@ -15,7 +15,7 @@
 [😊 My Git Blog](https://ehs2803.github.io)
 
 <br>
-<hr>
+
 
 # :books: STACKS
 
@@ -51,7 +51,7 @@
 
 <br>
 <br>
-<hr>
+
 
 # :mailbox_with_mail: Contacts
 
@@ -60,7 +60,6 @@
 
 <br>
 <br>
-<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehs2803&show_icons=true&theme=yellow)
 
