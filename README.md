@@ -51,6 +51,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehs2803&show_icons=true&theme=yellow)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hr2803)](https://solved.ac/hr2803)
-<img src="http://mazandi.herokuapp.com/api?handle={hr2803@naver.com}&theme=warm"/>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
