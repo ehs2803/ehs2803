@@ -47,7 +47,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehs1781@gmail.com)](mailto:ehs1781@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ehs2803.github.io/)](https://ehs2803.github.io/)
 
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={hr2803}&theme=warm)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehs2803&show_icons=true&theme=yellow)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hr2803)](https://solved.ac/hr2803)
