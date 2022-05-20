@@ -2,9 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:F8F8FF,100:696969&height=160&section=header&text=Hi!%20I'm%20EHS!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-
+<!--<img  align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
 <br><br>
-# Hi everyone im EHS 👋  <img  align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+# Hi everyone im EHS 👋  
 
 -  I am a student at Seokyeong University.
 -  I am majoring in computer science.
