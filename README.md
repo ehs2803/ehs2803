@@ -64,4 +64,6 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hr2803&theme=warm)
 -->
 
+<!--
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+-->
