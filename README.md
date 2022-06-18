@@ -9,7 +9,7 @@
 
 -  I am a student at Seokyeong University.
 -  I am majoring in computer science.
--  I am interested in web, database, AI development.
+-  I am interested in web, database, AI.
 
 
 [😄 My Portfolio - Notion](https://special-daisy-4d1.notion.site/e1ce7fec2d0c47008b632e7ec8af4e37)
