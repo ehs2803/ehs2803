@@ -24,12 +24,13 @@
 
 # :books: STACKS
 
-#### Back-End Framework
+#### Back-End
 
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=DJango&color=092E20&logo=Django&logoColor=white&label=)
 
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 ![Spring MVC](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+MVC&color=6DB33F&logo=Spring+MVC&logoColor=FFFFFF&label=)
+![Spring Security](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Security&color=6DB33F&logo=Spring+Security&logoColor=FFFFFF&label=)
 
 ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)
 ![Spring Data JPA](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Data+JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)
@@ -44,7 +45,7 @@
 
 <!--<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> -->
 
-#### Front-End Framework
+#### Front-End
 
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
