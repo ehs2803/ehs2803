@@ -9,7 +9,7 @@
 
 <!--<img  align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
 <br><br>
-# Hi everyone im Lee Hyeonsu, dreaming of becoming a web developer.👋<!--im EHS, dreaming of becoming a web developer.--> 👋  
+### Hi everyone im Lee Hyeonsu, dreaming of becoming a web developer.👋<!--im EHS, dreaming of becoming a web developer.-->  
 
 -  I am a student at Seokyeong University.
 -  I am majoring in computer science.
