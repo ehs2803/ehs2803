@@ -101,23 +101,23 @@
 <br>
 
 
-# :mailbox_with_mail: Contacts
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehs1781@gmail.com)](mailto:ehs1781@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ehs2803.github.io/)](https://ehs2803.github.io/)
-
-<br>
-<br>
-
-
 # :crown: Badge
 
 <a href="https://www.credly.com/badges/a4882052-ffcd-470e-990b-713ac611dffc/public_url">
 <img src="https://user-images.githubusercontent.com/65898555/180221252-362edd19-828c-4d25-b792-b5ce345ec212.png" width="200px" height="200px" title="Github_Logo"/>
 </a>
 
+
 <br>
 <br>
+
+
+# :mailbox_with_mail: Contacts
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehs1781@gmail.com)](mailto:ehs1781@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ehs2803.github.io/)](https://ehs2803.github.io/)
+
+
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehs2803&show_icons=true&theme=yellow)
