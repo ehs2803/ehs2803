@@ -91,11 +91,11 @@
 ![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=00599C&logo=Amazon+RDS&logoColor=FFFFFF&label=)
 ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
 -->
-
+<!--
 #### Studying
 
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=0095D5&logo=Kotlin&logoColor=FFFFFF&label=)
-
+-->
 <!--
 #### GIT
 
