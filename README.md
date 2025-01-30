@@ -16,7 +16,7 @@
 -  I am interested in web, AI.
 
 
-[😄 My Portfolio - Notion](https://special-daisy-4d1.notion.site/e1ce7fec2d0c47008b632e7ec8af4e37)
+[😄 My Portfolio - Notion](https://special-daisy-4d1.notion.site/189d359a87f6804f802af7d93db5fc77?pvs=4)
 <!--[😊 My Git Blog](https://ehs2803.github.io)-->
 
 <br>
